@@ -1,0 +1,123 @@
+[3] 2:12:18 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Advanced Examples\Advanced Examples.tws'
+[3] 2:12:18 PM: Log level: 4
+[3] 2:12:18 PM: Release: 11.2.0.13579
+[3] 2:12:18 PM: PimpUp started
+[3] 2:12:18 PM: Adding MetaInfo in SQLiteAdaptor
+ + Type: [168] TCConfiguration
+ + Type: [169] TCCloudUser
+ + Type: [170] TCConfigurationLink
+ + Type: [171] TPObjectViewLink
+ + Type: [172] TPMilestone
+ + Type: [173] BIFolder
+ + Type: [174] TableContent
+ + Type: [175] LoadStream
+ + Type: [176] LoadStreamEntry
+ + Type: [177] LoadStreamEntryFolder
+ + Attr: [3:266] Condition
+ + Attr: [3:267] Path
+ + Attr: [3:268] BreakInstantiation
+ + Attr: [11:269] Name
+ + Attr: [13:270] Name
+ + Attr: [14:271] Value
+ + Attr: [14:272] ActionMode
+ + Attr: [14:273] DataType
+ + Attr: [14:274] Name
+ + Attr: [104:283] TestConfigurationParameters
+ + Attr: [145:275] TestDevice
+ + Attr: [157:279] Priority
+ + Attr: [161:280] MessageNamespace
+ + Attr: [162:281] PayloadParts
+ + Attr: [168:264] Predefined
+ + Attr: [168:265] TestConfigurationParameters
+ + Attr: [171:276] LinkedObjectType
+ + Attr: [172:277] Description
+ + Attr: [172:278] Date
+ + Attr: [174:282] CapturedDateTime
+ + Assoc: [56:179] ConfigurationLinks
+ + Assoc: [105:185] TableBaseline
+ + Assoc: [117:186] TableSnapshot
+ + Assoc: [160:184] TCUser
+ + Assoc: [168:180] Items
+ + Assoc: [170:181] UsedConfiguration
+ + Assoc: [171:182] LinkedObject
+ + Assoc: [172:183] Owner
+
+[3] 2:12:19 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 2:12:19 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 2:12:19 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 2:12:19 PM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 2:12:19 PM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 2:12:19 PM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 2:12:19 PM:  + Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 2:12:19 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 2:12:19 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 2:12:19 PM:  + TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 2:12:19 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 2:12:19 PM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
+[3] 2:12:19 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Advanced Examples\Advanced Examples.tws'
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:12:24 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:12:25 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 2:12:25 PM: OpenWorkspace took 00:00:07.6034692 to finish
+[4] 2:12:28 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:28 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:30 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:34 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:35 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:40 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:40 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:42 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:44 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:45 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:48 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:50 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:50 PM:  ShowStatusInfo: 'Ready'
+[4] 2:12:56 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:12:57 PM:  ShowStatusInfo: 'Ready'
+[3] 2:13:13 PM: Closing Workspace!
+[3] 2:13:13 PM: Log closed!
